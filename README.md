@@ -5,7 +5,7 @@ Plugin for Sublime Text 2.
 
 In yii sql exceptions contains :name=value plugin replace name to value in query
 
-## Usage
+## Installing
 
 To install plugin on OSX
 
@@ -24,3 +24,9 @@ Preferences -> Key Bindings-User
 add this line 
 
 `{ "keys": ["ctrl+shift+h"], "command": "sql_yii_replacer" }`
+
+## Usage
+
+To replace use shortcut
+
+`Ctrl + Shift + H`
