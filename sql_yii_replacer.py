@@ -1,6 +1,6 @@
 import sublime, sublime_plugin
 
-class ReplaceSqlYiiCommand(sublime_plugin.TextCommand):
+class SqlYiiReplacerCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
 		print "start plugin"
 		text = "" # all text
