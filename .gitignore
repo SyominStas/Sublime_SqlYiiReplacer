@@ -40,6 +40,8 @@ htmlcov/
 nosetests.xml
 coverage.xml
 
+.DS_Store
+
 # Translations
 *.mo
 *.pot
