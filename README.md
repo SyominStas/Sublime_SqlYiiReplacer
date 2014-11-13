@@ -19,7 +19,7 @@ clone project
 
 Open Sublime Text 2
 
-Preferences -> Key Bindings-User
+`Preferences -> Key Bindings-User`
 
 add this line 
 
